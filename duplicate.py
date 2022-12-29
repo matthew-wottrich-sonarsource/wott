@@ -1,5 +1,4 @@
 print('Hello World')
-print('Testing')
 print('Goodbye World')
 print('not duplicate')
 print('not duplicate either')
